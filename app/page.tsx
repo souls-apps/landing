@@ -1,5 +1,5 @@
-import {SpotAlertLandingNoRefs} from "@/components/spot-alert-landing-no-refs";
+import {SpotAlertLanding} from "@/components/spot-alert-landing";
 
 export default function Home() {
-    return <SpotAlertLandingNoRefs/>
+    return <SpotAlertLanding/>
 }
